@@ -8,15 +8,35 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "~39.0.2",
-    "expo-status-bar": "~1.0.2",
-    "react": "16.13.1",
-    "react-dom": "16.13.1",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.3.tar.gz",
-    "react-native-web": "~0.13.12"
+    "@react-native-community/masked-view": "^0.1.11",
+    "expo": "^42.0.3",
+    "expo-status-bar": "^1.0.4",
+    "firebase": "^8.9.0",
+    "js-base64": "^3.6.1",
+    "lottie-react-native": "~4.0.3",
+    "moment": "^2.29.1",
+    "react-native":"https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-native-calendar-picker": "^7.1.2",
+    "react-native-calendar-strip": "^2.2.4",
+    "react-native-calendars": "^1.1264.0",
+    "react-native-elements": "^3.4.2",
+    "react-native-gesture-handler": "~1.10.3",
+    "react-native-linear-gradient": "^2.5.6",
+    "react-native-paper": "^4.9.2",
+    "react-native-reanimated": "~2.2.0",
+    "react-native-safe-area-context": "~3.3.0",
+    "react-native-screens": "~3.5.0",
+    "react-native-touchable-scale": "^2.1.2",
+    "react-native-vector-icons": "^8.1.0",
+    "react-native-web": "~0.17.1",
+    "react-navigation": "^4.4.4",
+    "react-navigation-stack": "^2.10.4",
+    "react-navigation-tabs": "^2.11.1"
   },
   "devDependencies": {
-    "@babel/core": "~7.9.0"
+    "@babel/core": "~7.15.0"
   },
   "private": true
 }
